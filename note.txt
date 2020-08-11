@@ -5,4 +5,14 @@ Git Commands
 -git add .
 -git commit -m "message"
 -git push -u origin master
+-git remote show origin
 
+-git remote add origin url
+-git remote rm origin
+
+-Route 
+-Views
+-Controller
+-Using Template
+
+-templatebylaravel.domain.me/templatebylaravel/public
